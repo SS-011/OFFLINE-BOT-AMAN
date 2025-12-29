@@ -7,9 +7,9 @@ const appstatePath = path.join(__dirname, 'appstate.json');
 let botModule = null;
 let botStarted = false;
 
-const BRAND_NAME = "SARDAR RDX";
-const BRAND_WHATSAPP = "+923301068874";
-const BRAND_EMAIL = "sardarrdx@gmail.com";
+const BRAND_NAME = "AMAN RDX";
+const BRAND_WHATSAPP = "9882093062";
+const BRAND_EMAIL = "manubhatiya310@gmail.com";
 
 function getConfig() {
   try {
