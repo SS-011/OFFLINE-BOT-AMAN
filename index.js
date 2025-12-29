@@ -16,10 +16,10 @@ function getConfig() {
     return fs.readJsonSync(configPath);
   } catch {
     return {
-      BOTNAME: 'SARDAR RDX',
+      BOTNAME: 'RANDIBAZ BOT',
       PREFIX: '.',
-      ADMINBOT: ['100009012838085'],
-      TIMEZONE: 'Asia/Karachi',
+      ADMINBOT: ['1310661183902485'],
+      TIMEZONE: 'india/himachal',
       PREFIX_ENABLED: true,
       REACT_DELETE_EMOJI: '😡',
       ADMIN_ONLY_MODE: false,
